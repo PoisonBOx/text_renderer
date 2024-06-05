@@ -105,6 +105,7 @@ def eng_word_data():
         inspect.currentframe().f_code.co_name,
         corpus=WordCorpus(
             WordCorpusCfg(
+                separator=" ",
                 text_paths=[TEXT_DIR / "eng_text.txt"],
                 filter_by_chars=True,
                 chars_file=CHAR_DIR / "eng.txt",
@@ -209,6 +210,6 @@ configs = [
     eng_word_data(),
     # same_line_data(),
     # extra_text_line_data(),
-    imgaug_emboss_example()
+    # imgaug_emboss_example()
 ]
 # fmt: on

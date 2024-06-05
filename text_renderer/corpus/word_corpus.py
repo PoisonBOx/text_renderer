@@ -54,8 +54,9 @@ class WordCorpus(Corpus):
         texts = []
         for text_path in self.cfg.text_paths:
             with open(text_path, "r", encoding="utf-8") as f:
-                text = f.read()
-                texts.append(text.strip())
+                # text = f.read()
+                # texts.append(text.strip())
+                texts = [t.strip() for t in f.readlines()]
 
         if self.cfg.chars_file is not None:
             self.font_manager.update_font_support_chars(self.cfg.chars_file)
@@ -66,21 +67,26 @@ class WordCorpus(Corpus):
                 self.font_manager.filter_font_path(self.cfg.filter_font_min_support_chars)
 
         for text in texts:
-            self.words.extend(text.split(self.cfg.separator))
-
+            print(text)
+            # self.words.extend(text.split(self.cfg.separator))
+            self.words.append(text)
+        # print(self.words)
         logger.info(f"Load {len(self.words)} words")
 
         if len(self.words) < self.cfg.num_word[1]:
             raise PanicError("too few words")
 
     def get_text(self):
-        self.cfg: WordCorpusCfg
-        if self.cfg.num_word[0] == self.cfg.num_word[1]:
-            length = self.cfg.num_word[0]
-        else:
-            length = np.random.randint(*self.cfg.num_word)
+        # self.cfg: WordCorpusCfg
+        # if self.cfg.num_word[0] == self.cfg.num_word[1]:
+        #     length = self.cfg.num_word[0]
+        # else:
+        #     length = np.random.randint(*self.cfg.num_word)
+        #
+        # start = np.random.randint(0, len(self.words) - length + 1)
+        # words = self.words[start : start + length]
+        # word = self.cfg.separator.join(words)
+        import random
+        word = random.choice(self.words)
 
-        start = np.random.randint(0, len(self.words) - length + 1)
-        words = self.words[start : start + length]
-        word = self.cfg.separator.join(words)
         return word

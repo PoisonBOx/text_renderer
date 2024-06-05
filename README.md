@@ -1,20 +1,7 @@
 # Text Renderer
-Generate text line images for training deep learning OCR model (e.g. [CRNN](https://github.com/bgshih/crnn)). ![example](./image/example.gif)
-
-- [x] Modular design. You can easily add different components: [Corpus](https://oh-my-ocr.github.io/text_renderer/corpus/index.html), [Effect](https://oh-my-ocr.github.io/text_renderer/effect/index.html), [Layout](https://oh-my-ocr.github.io/text_renderer/layout/index.html).
-- [x] Integrate with [imgaug](https://github.com/aleju/imgaug), see [imgaug_example](https://github.com/oh-my-ocr/text_renderer/blob/master/example_data/example.py#L184) for usage.
-- [x] Support render multi corpus on image with different effects. [Layout](https://oh-my-ocr.github.io/text_renderer/layout/index.html) is responsible for the layout between multiple corpora
-- [x] Support apply effects on different stages of rendering process [corpus_effects](https://oh-my-ocr.github.io/text_renderer/config.html#text_renderer.config.RenderCfg), [layout_effects](https://oh-my-ocr.github.io/text_renderer/config.html#text_renderer.config.RenderCfg), [render_effects](https://oh-my-ocr.github.io/text_renderer/config.html#text_renderer.config.RenderCfg).
-- [x] Generate vertical text.
-- [x] Support generate `lmdb` dataset which compatible with [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR), see [Dataset](https://oh-my-ocr.github.io/text_renderer/dataset.html)
-- [x] A web font viewer.
-- [ ] Corpus sampler: helpful to perform character balance
-
-[Documentation](https://oh-my-ocr.github.io/text_renderer/index.html)
-
-## Run Example
-
-Run following command to generate images using example data:
+修改了源代码的corpus格式，例如：
+1. example_data/eng.py定义了纯英文的方式，使用word corpus方式；
+2. example_data/text/eng_text.txt定义了corpus，在corpus中，每行一个待生成的文本段，程序读取corpus后随机取一行（去掉\n）进行图片生成。
 
 ```bash
 git clone https://github.com/oh-my-ocr/text_renderer
