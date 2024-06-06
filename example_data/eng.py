@@ -26,7 +26,7 @@ TEXT_DIR = DATA_DIR / "text"
 
 font_cfg = dict(
     font_dir=FONT_DIR,
-    font_list_file=FONT_LIST_DIR / "font_list.txt",
+    font_list_file=FONT_LIST_DIR / "font_eng_list.txt",
     font_size=(30, 31),
 )
 

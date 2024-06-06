@@ -67,7 +67,7 @@ class WordCorpus(Corpus):
                 self.font_manager.filter_font_path(self.cfg.filter_font_min_support_chars)
 
         for text in texts:
-            print(text)
+            # print(text)
             # self.words.extend(text.split(self.cfg.separator))
             self.words.append(text)
         # print(self.words)
