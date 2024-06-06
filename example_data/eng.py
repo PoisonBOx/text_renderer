@@ -10,6 +10,8 @@ from text_renderer.config import (
     NormPerspectiveTransformCfg,
     GeneratorCfg,
     FixedTextColorCfg,
+    SimpleTextColorCfg,
+    MedicalTextColorCfg,
 )
 from text_renderer.layout.same_line import SameLineLayout
 from text_renderer.layout.extra_text_line import ExtraTextLineLayout
@@ -27,7 +29,7 @@ TEXT_DIR = DATA_DIR / "text"
 font_cfg = dict(
     font_dir=FONT_DIR,
     font_list_file=FONT_LIST_DIR / "font_eng_list.txt",
-    font_size=(30, 31),
+    font_size=(20, 30),
 )
 
 perspective_transform = NormPerspectiveTransformCfg(20, 20, 1.5)
@@ -50,12 +52,14 @@ def base_cfg(
     name: str, corpus, corpus_effects=None, layout_effects=None, layout=None, gray=True
 ):
     return GeneratorCfg(
-        num_image=50,
+        num_image=500,
         save_dir=OUT_DIR / name,
         render_cfg=RenderCfg(
             bg_dir=BG_DIR,
             perspective_transform=perspective_transform,
-            gray=gray,
+            gray=False,
+            # text_color_cfg=SimpleTextColorCfg(),
+            # text_color_cfg=FixedTextColorCfg(),
             layout_effects=layout_effects,
             layout=layout,
             corpus=corpus,
@@ -111,9 +115,28 @@ def eng_word_data():
                 chars_file=CHAR_DIR / "eng.txt",
                 **font_cfg
             ),
-        ),
+        )
     )
 
+
+def eng_word_data_multi_transform():
+    return base_cfg(
+        inspect.currentframe().f_code.co_name,
+        corpus=WordCorpus(
+            WordCorpusCfg(
+                separator=" ",
+                text_paths=[TEXT_DIR / "eng_text.txt"],
+                filter_by_chars=True,
+                chars_file=CHAR_DIR / "eng.txt",
+                **font_cfg
+            ),
+        ),
+        corpus_effects=Effects([Line(0.1, thickness=(1, 3)),
+                                Emboss(0.1),
+                                Padding(0.4),
+                                # DropoutHorizontal(0.1, num_line=1)
+                                ])
+    )
 
 def same_line_data():
     return base_cfg(
@@ -206,8 +229,7 @@ def imgaug_emboss_example():
 configs = [
     # chn_data(),
     # enum_data(),
-    # rand_data(),
-    eng_word_data(),
+    eng_word_data_multi_transform()
     # same_line_data(),
     # extra_text_line_data(),
     # imgaug_emboss_example()

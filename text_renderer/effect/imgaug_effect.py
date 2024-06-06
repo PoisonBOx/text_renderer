@@ -30,7 +30,7 @@ class ImgAugEffect(Effect):
 
 
 class Emboss(ImgAugEffect):
-    def __init__(self, p=1.0, alpha=(0, 9, 1.0), strength=(1.5, 1.6)):
+    def __init__(self, p=1.0, alpha=(0.9, 1.0), strength=(1.5, 1.6)):
         """
 
         Parameters
