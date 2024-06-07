@@ -1,0 +1,1057 @@
+[
+    {
+        "Abbreviation": "11DEOXY",
+        "Synonyms": ["11 deoxycortisol", "Cortodoxin", "Deoxycorticosterone", "11-DOC", "11-Deoxycortisol"]
+    },
+    {
+        "Abbreviation": "17OHP",
+        "Synonyms": ["17 hydroxyprogesterone", "17-Hydroxyprogesterone", "17-OH Progesterone"]
+    },
+    {
+        "Abbreviation": "ACACT",
+        "Synonyms": ["acetoacetate", "AcAc", "Acetoacetic Acid"]
+    },
+    {
+        "Abbreviation": "ALT",
+        "Synonyms": ["alanine transaminase", "Alanine Amino Transferase"]
+    },
+    {
+        "Abbreviation": "ALB",
+        "Synonyms": ["albumin", "Serum Albumin"]
+    },
+    {
+        "Abbreviation": "ALB/GLO",
+        "Synonyms": ["albumin to globulin ratio", "A/G Ratio", "Albumin-Globulin Ratio"]
+    },
+    {
+        "Abbreviation": "ALD",
+        "Synonyms": ["aldosterone", "Aldosterone Hormone", "Aldosteron"]
+    },
+    {
+        "Abbreviation": "ALP",
+        "Synonyms": ["alkaline phosphatase", "Alkaline Phosphatase", "Serum Alkaline Phosphatase", "Alk Phos", "Alkaline Phosphate"]
+    },
+    {
+        "Abbreviation": "AAT1",
+        "Synonyms": ["alpha 1 antichymotrypsin", "a1-Antichymotrypsin", "Alpha-1-Antichymotrypsin", "A1ACT"]
+    },
+    {
+        "Abbreviation": "AATD",
+        "Synonyms": ["alpha 1 antitrypsin", "a1-Antitrypsin", "Alpha-1-Antitrypsin"]
+    },
+    {
+        "Abbreviation": "AFP",
+        "Synonyms": ["alpha 1 fetoprotein afp", "Alpha-Fetoprotein", "Fetoprotein alpha"]
+    },
+    {
+        "Abbreviation": "A2MACR",
+        "Synonyms": ["alpha 2 macroglobulin", "Alpha-2-Macroglobulin"]
+    },
+    {
+        "Abbreviation": "AABA",
+        "Synonyms": ["alpha aminobutyric acid", "Alpha-Aminobutyric Acid", "a-Aminobutyric Acid"]
+    },
+    {
+        "Abbreviation": "HBDH",
+        "Synonyms": ["alpha hydroxybutyrate dehydrogenase", "Alpha-Hydroxybutyrate Dehydrogenase"]
+    },
+    {
+        "Abbreviation": "A1GLO",
+        "Synonyms": ["alpha-1 globulin", "Alpha-1 Globulin", "a1-Globulin"]
+    },
+    {
+        "Abbreviation": "A2GLO",
+        "Synonyms": ["alpha-2 globulin", "Alpha-2 Globulin", "a2-Globulin"]
+    },
+    {
+        "Abbreviation": "Al",
+        "Synonyms": ["aluminium", "Aluminum", "serum aluminum", "aluminum"]
+    },
+    {
+        "Abbreviation": "NH3",
+        "Synonyms": ["ammonium"]
+    },
+    {
+        "Abbreviation": "ANDRO",
+        "Synonyms": ["androgen"]
+    },
+    {
+        "Abbreviation": "ANSTED",
+        "Synonyms": ["androstenedione"]
+    },
+    {
+        "Abbreviation": "ACE",
+        "Synonyms": ["angiotensin converting enzyme", "Angiotensin-Converting Enzyme", "ACE enzyme"]
+    },
+    {
+        "Abbreviation": "ANGAP",
+        "Synonyms": ["anion gap", "Anionic Gap", "Serum Anion Gap"]
+    },
+    {
+        "Abbreviation": "ADH",
+        "Synonyms": ["antidiuretic hormone", "Antidiuretic Hormone", "Vasopressin"]
+    },
+    {
+        "Abbreviation": "ARG",
+        "Synonyms": ["arginine", "L-Arginine"]
+    },
+    {
+        "Abbreviation": "As",
+        "Synonyms": ["arsenic", "serum arsenic"]
+    },
+    {
+        "Abbreviation": "AST",
+        "Synonyms": ["aspartate transaminase", "Aspartate Aminotransferase"]
+    },
+    {
+        "Abbreviation": "BNP",
+        "Synonyms": ["b type natriuretic peptide"]
+    },
+    {
+        "Abbreviation": "BASO",
+        "Synonyms": ["basophil count", "Basophil Count", "Baso Count", "Basophil Number", "Basophils", "total basophiles"]
+    },
+    {
+        "Abbreviation": "BASO%",
+        "Synonyms": ["basophils (%)", "Basophil Percentage", "Percentage of Basophils", "Basophil Percent"]
+    },
+    {
+        "Abbreviation": "B2M",
+        "Synonyms": ["beta 2 microglobulin", "Beta-2-Microglobulin"]
+    },
+    {
+        "Abbreviation": "BGLO",
+        "Synonyms": ["beta globulin", "Beta-Globulin", "Serum Beta Globulin", "Beta Globulin Fraction"]
+    },
+    {
+        "Abbreviation": "BHYD",
+        "Synonyms": ["beta hydroxybutyrate", "Beta-Hydroxybutyrate", "3-Hydroxybutyric Acid", "3-OHB", "b-Hydroxybutyric Acid"]
+    },
+    {
+        "Abbreviation": "HCO3",
+        "Synonyms": ["bicarbonate", "Hydrogen Carbonate", "Bicarb", "Bicarbonate Ion"]
+    },
+    {
+        "Abbreviation": "FXIV",
+        "Synonyms": ["blood coagulation factor XIV", "Coagulation Factor XIV", "Factor XIV", "Fibrinogen"]
+    },
+    {
+        "Abbreviation": "O2SAT",
+        "Synonyms": ["blood oxygen saturation", "Oxygen Saturation", "O2 Saturation", "Oxygen Sat"]
+    },
+    {
+        "Abbreviation": "BUN",
+        "Synonyms": ["blood urea nitrogen", "Blood Urea", "Serum Urea Nitrogen"]
+    },
+    {
+        "Abbreviation": "Br-",
+        "Synonyms": ["bromide", "Bromine", "Bromide Ion"]
+    },
+    {
+        "Abbreviation": "CRP",
+        "Synonyms": ["c-reactive protein", "C-Reactive Protein", "CRP Test", "High-Sensitivity CRP", "hs-CRP"]
+    },
+    {
+        "Abbreviation": "Cd2+",
+        "Synonyms": ["cadmium", "Cadmium Ion", "Cd"]
+    },
+    {
+        "Abbreviation": "CCTN",
+        "Synonyms": ["calcitonin", "Thyrocalcitonin", "Calcitonin Gene-Related Peptide"]
+    },
+    {
+        "Abbreviation": "Ca2+",
+        "Synonyms": ["calcium", "Serum Calcium"]
+    },
+    {
+        "Abbreviation": "CA125",
+        "Synonyms": ["cancer antigen 125", "CA-125"]
+    },
+    {
+        "Abbreviation": "CA2729",
+        "Synonyms": ["cancer antigen 27-29", "CA 27-29"]
+    },
+    {
+        "Abbreviation": "CA199",
+        "Synonyms": ["cancer antigen 19-9", "CA 19-9"]
+    },
+    {
+        "Abbreviation": "CA153",
+        "Synonyms": ["cancer antigen 15-3", "CA 15-3"]
+    },
+    {
+        "Abbreviation": "CO2",
+        "Synonyms": ["carbon dioxide"]
+    },
+    {
+        "Abbreviation": "HBCO",
+        "Synonyms": ["carboxyhemoglobin"]
+    },
+    {
+        "Abbreviation": "CEA",
+        "Synonyms": ["carcinoembryonic antigen", "CEA Antigen"]
+    },
+    {
+        "Abbreviation": "CRPLN",
+        "Synonyms": ["ceruloplasmin", "Copper Oxidase"]
+    },
+    {
+        "Abbreviation": "CCTN",
+        "Synonyms": ["calcitonin"]
+    },
+    {
+        "Abbreviation": "CA199",
+        "Synonyms": ["cancer antigen 19-9", "CA 19-9"]
+    },
+    {
+        "Abbreviation": "CA153",
+        "Synonyms": ["cancer antigen 15-3", "CA 15-3"]
+    },
+    {
+        "Abbreviation": "HBCO",
+        "Synonyms": ["carboxyhemoglobin", "COHb", "Carbon Monoxide Hemoglobin", "Carboxyhaemoglobin", "CO-Hb"]
+    },
+    {
+        "Abbreviation": "CEA",
+        "Synonyms": ["carcinoembryonic antigen", "CEA Protein", "Carcinoembryonic Antigen Protein", "CEA Test", "CEACAM5"]
+    },
+    {
+        "Abbreviation": "CRPLN",
+        "Synonyms": ["ceruloplasmin", "Ceruloplasma"]
+    },
+    {
+        "Abbreviation": "Cl-",
+        "Synonyms": ["chloride", "Chloride Ion", "Chlorine Ion", "Chlorine Anion", "Cl", "serum chloride"]
+    },
+    {
+        "Abbreviation": "CHOL/HDL",
+        "Synonyms": ["cholesterol/HDL ratio", "Cholesterol to HDL Ratio", "Chol/HDL", "Lipid Profile Ratio", "Cardiovascular Risk Ratio"]
+    },
+    {
+        "Abbreviation": "CCK",
+        "Synonyms": ["cholecystokinin", "Pancreozymin"]
+    },
+    {
+        "Abbreviation": "CHLN",
+        "Synonyms": ["choline", "Choline Bitartrate", "Vitamin B4", "Choline Supplement", "Choline Chloride"]
+    },
+    {
+        "Abbreviation": "CGA",
+        "Synonyms": ["chromogranin a", "Chromogranin-A", "CHGA", "Chromogranin Alpha", "Granin Protein"]
+    },
+    {
+        "Abbreviation": "C1Q",
+        "Synonyms": ["complement component 1", "C1q Protein", "Complement 1q", "C1q Subcomponent", "C1QC"]
+    },
+    {
+        "Abbreviation": "C1EI",
+        "Synonyms": ["complement component 1 esterase inhibitor", "C1-Inhibitor", "C1IN"]
+    },
+    {
+        "Abbreviation": "C2",
+        "Synonyms": ["complement component 2", "C2 Protein", "Complement 2"]
+    },
+    {
+        "Abbreviation": "C3",
+        "Synonyms": ["complement component 3", "C3 Protein", "Complement 3"]
+    },
+    {
+        "Abbreviation": "C4",
+        "Synonyms": ["complement component 4", "C4 Protein", "Complement 4"]
+    },
+    {
+        "Abbreviation": "C5",
+        "Synonyms": ["complement component 5", "C5 complement", "C5 protein", "Fifth Component of Complement", "Complement 5"]
+    },
+    {
+        "Abbreviation": "C6",
+        "Synonyms": ["complement component 6", "C6 complement", "C6 protein", "Sixth Component of Complement", "Complement 6"]
+    },
+    {
+        "Abbreviation": "BILIC",
+        "Synonyms": ["conjugated bilirubin", "Direct Bilirubin", "Conjugated Serum Bilirubin", "Conjugated Bile Pigment"]
+    },
+    {
+        "Abbreviation": "Cu2+",
+        "Synonyms": ["copper", "Copper Ion", "serum copper"]
+    },
+    {
+        "Abbreviation": "CORT",
+        "Synonyms": ["cortisol", "cortisole"]
+    },
+    {
+        "Abbreviation": "CREAN",
+        "Synonyms": ["creatine"]
+    },
+    {
+        "Abbreviation": "CK",
+        "Synonyms": ["creatine kinase"]
+    },
+    {
+        "Abbreviation": "CKMB",
+        "Synonyms": ["creatine kinase-MB", "Creatine Kinase-MB", "CK-MB"]
+    },
+    {
+        "Abbreviation": "CREA",
+        "Synonyms": ["creatinine", "Serum Creatinine"]
+    },
+    {
+        "Abbreviation": "CGMP",
+        "Synonyms": ["Cyclic GMP", "cyclyic GMP", "Cyclic Guanosine Monophosphate"]
+    },
+    {
+        "Abbreviation": "CYS",
+        "Synonyms": ["cysteine", "Cystine", "L-Cysteine", "Amino Acid Cysteine", "Cys", "Cysteine Hydrochloride", "Cysteine Supplement", "Cysteine Amino Acid", "Cysteine Powder", "Cysteine HCl"]
+    },
+    {
+        "Abbreviation": "DHEA",
+        "Synonyms": ["dehydroepiandrosterone"]
+    },
+    {
+        "Abbreviation": "DHEAS",
+        "Synonyms": ["dehydroepiandrosterone sulfate", "DHEA-Sulfate", "DHEA-S"]
+    },
+    {
+        "Abbreviation": "DHTT",
+        "Synonyms": ["dihydrotestosterone", "5a-Dihydrotestosterone"]
+    },
+    {
+        "Abbreviation": "EGFR",
+        "Synonyms": ["eGFR", "Estimated Glomerular Filtration Rate"]
+    },
+    {
+        "Abbreviation": "EOS",
+        "Synonyms": ["eosinophil count", "Eosinophils", "Eosinophil number", "EOS count"]
+    },
+    {
+        "Abbreviation": "EOSINO%",
+        "Synonyms": ["eosinophils (%)", "Eosinophil Percentage", "Percentage of Eosinophils", "Eosinophil Percent"]
+    },
+    {
+        "Abbreviation": "ESR",
+        "Synonyms": ["erythrocyte sedimentation rate"]
+    },
+    {
+        "Abbreviation": "EPOE",
+        "Synonyms": ["erythropoietin", "EPO Hormone"]
+    },
+    {
+        "Abbreviation": "ESTR2",
+        "Synonyms": ["estradiol", "E2", "17b-Estradiol", "Estrogen E2", "Oestradiol"]
+    },
+    {
+        "Abbreviation": "ESTR1",
+        "Synonyms": ["estrone", "E1", "Oestrone", "Oestron", "Estrone Level"]
+    },
+    {
+        "Abbreviation": "F5",
+        "Synonyms": ["factor V", "Proaccelerin"]
+    },
+    {
+        "Abbreviation": "INSLN",
+        "Synonyms": ["fasting insulin", "Insulin Fasting"]
+    },
+    {
+        "Abbreviation": "FERR",
+        "Synonyms": ["Ferritin", "Serum Ferritin"]
+    },
+    {
+        "Abbreviation": "FIBR",
+        "Synonyms": ["fibrinogen", "Factor I"]
+    },
+    {
+        "Abbreviation": "FSH",
+        "Synonyms": ["follicle stimulating hormone", "Follitropin", "Follicular Stimulating Hormone"]
+    },
+    {
+        "Abbreviation": "FPSA",
+        "Synonyms": ["free psa", "Free Prostate-Specific Antigen"]
+    },
+    {
+        "Abbreviation": "FT3",
+        "Synonyms": ["free T3", "Triiodothyronine Free", "Free Triiodothyronine", "T3 free"]
+    },
+    {
+        "Abbreviation": "FT4",
+        "Synonyms": ["free T4", "Thyroxine Free", "Free Thyroxine", "T4 free"]
+    },
+    {
+        "Abbreviation": "FRUCT",
+        "Synonyms": ["fructosamine", "Fructosamine Test", "Serum Fructosamine"]
+    },
+    {
+        "Abbreviation": "GALT",
+        "Synonyms": ["galactose 1 phosphate uridyltransferase", "GALT enzyme", "Galactose-1-Phosphate Uridyltransferase"]
+    },
+    {
+        "Abbreviation": "GGLO",
+        "Synonyms": ["gamma globulin", "IgG", "Immunoglobulin G"]
+    },
+    {
+        "Abbreviation": "GGT",
+        "Synonyms": ["gamma-glutamyltransferase", "Gamma-Glutamyl Transpeptidase", "Gamma GT", "gamma glutamyl transferase"]
+    },
+    {
+        "Abbreviation": "GTRN",
+        "Synonyms": ["gastrin", "Gastrin Hormone"]
+    },
+    {
+        "Abbreviation": "GLOB",
+        "Synonyms": ["globulin total", "Total Globulin", "Serum Globulin"]
+    },
+    {
+        "Abbreviation": "GLCGN",
+        "Synonyms": ["glucagon", "Glucagon Hormone"]
+    },
+    {
+        "Abbreviation": "GLUC",
+        "Synonyms": ["glucose", "Blood Sugar", "Blood Glucose", "serum glucose"]
+    },
+    {
+        "Abbreviation": "G6PD",
+        "Synonyms": ["glucose 6 phosphate dehydrogenase"]
+    },
+    {
+        "Abbreviation": "GLCRL",
+        "Synonyms": ["glycerol"]
+    },
+    {
+        "Abbreviation": "GLYCC",
+        "Synonyms": ["glycine"]
+    },
+    {
+        "Abbreviation": "HPTGB",
+        "Synonyms": ["haptoglobin", "Haptoglobin Level"]
+    },
+    {
+        "Abbreviation": "HBA1C",
+        "Synonyms": ["HbA1c", "Glycated Hemoglobin", "Glycohemoglobin"]
+    },
+    {
+        "Abbreviation": "HDLC",
+        "Synonyms": ["hdl cholesterol", "High-Density Lipoprotein Cholesterol", "HDL-C", "HDL Chol."]
+    },
+    {
+        "Abbreviation": "HCT",
+        "Synonyms": ["hematocrit", "Packed Cell Volume", "PCV", "HC"]
+    },
+    {
+        "Abbreviation": "HGB",
+        "Synonyms": ["hemoglobin", "Hb", "Haemoglobin", "Hemoglobin Level", "HB"]
+    },
+    {
+        "Abbreviation": "hs-cTnI",
+        "Synonyms": ["high sensitivity cardiac troponin I", "High-Sensitivity Troponin I", "hs-cTnI Level"]
+    },
+    {
+        "Abbreviation": "HIST",
+        "Synonyms": ["histamine", "Histamine Level"]
+    },
+    {
+        "Abbreviation": "HCYS",
+        "Synonyms": ["homocystein", "Homocysteine", "Homocysteine Level"]
+    },
+    {
+        "Abbreviation": "IGC",
+        "Synonyms": ["immature granulocytes", "Immature White Blood Cells", "IG Count"]
+    },
+    {
+        "Abbreviation": "IGC%",
+        "Synonyms": ["immature granulocytes (%)", "Percentage of Immature Granulocytes"]
+    },
+    {
+        "Abbreviation": "IPF",
+        "Synonyms": ["Platelet Immature Fraction"]
+    },
+    {
+        "Abbreviation": "IRF",
+        "Synonyms": ["Reticulocyte Immature Fraction"]
+    },
+    {
+        "Abbreviation": "igA",
+        "Synonyms": ["IgA antibody", "Immunoglobulin A"]
+    },
+    {
+        "Abbreviation": "igD",
+        "Synonyms": ["IgD antibody", "Immunoglobulin D"]
+    },
+    {
+        "Abbreviation": "igE",
+        "Synonyms": ["IgE antibody", "Immunoglobulin E"]
+    },
+    {
+        "Abbreviation": "igG",
+        "Synonyms": ["IgG antibody", "Serum Immunoglobulin G", "Total IgG"]
+    },
+    {
+        "Abbreviation": "igM",
+        "Synonyms": ["IgM antibody", "Serum Immunoglobulin M", "Total IgM"]
+    },
+    {
+        "Abbreviation": "BILIIN",
+        "Synonyms": ["Unconjugated Bilirubin", "Non-Direct Bilirubin", "Indirect Serum Bilirubin", "Serum Indirect Bilirubin"]
+    },
+    {
+        "Abbreviation": "IGF1",
+        "Synonyms": ["Somatomedin C", "IGF-1", "Insulin-like Growth Factor I", "IGF-I"]
+    },
+    {
+        "Abbreviation": "I2",
+        "Synonyms": ["Iodide"]
+    },
+    {
+        "Abbreviation": "Fe3+",
+        "Synonyms": ["Iron", "Trivalent Iron", "Iron(III)", "Fe(III)", "Ferric", "Serum Iron"]
+    },
+    {
+        "Abbreviation": "UIBC",
+        "Synonyms": ["Unsaturated Iron Binding Capacity"]
+    },
+    {
+        "Abbreviation": "ILEL",
+        "Synonyms": ["Isoleucine", "Ile", "Ileu", "Amino Acid Isoleucine"]
+    },
+    {
+        "Abbreviation": "LDH",
+        "Synonyms": ["L-lactate dehydrogenase", "Lactic Acid Dehydrogenase"]
+    },
+    {
+        "Abbreviation": "LACTL",
+        "Synonyms": ["Lactate", "Lactic Acid", "Lactate Level"]
+    },
+    {
+        "Abbreviation": "LACPYR",
+        "Synonyms": ["Lactate to Pyruvate Ratio", "Lactate/Pyruvate Ratio", "Lactate-Pyruvate Ratio", "Lactic Acid/Pyruvic Acid Ratio"]
+    },
+    {
+        "Abbreviation": "LDLC",
+        "Synonyms": ["LDL Cholesterol", "Low-Density Lipoprotein Cholesterol", "Bad Cholesterol", "LDL-C", "Total LDLC", "LDL Chol."]
+    },
+    {
+        "Abbreviation": "LEP",
+        "Synonyms": ["Leptin"]
+    },
+    {
+        "Abbreviation": "LAP",
+        "Synonyms": ["Leucine Aminopeptidase"]
+    },
+    {
+        "Abbreviation": "LPSE",
+        "Synonyms": ["Pancreatic Lipase", "Serum Lipase"]
+    },
+    {
+        "Abbreviation": "LPPA",
+        "Synonyms": ["Lipoprotein a", "Lipoprotein alpha", "Lp(a)", "Lipoprotein-a"]
+    },
+    {
+        "Abbreviation": "Li+",
+        "Synonyms": ["Lithium Ion"]
+    },
+    {
+        "Abbreviation": "LZH",
+        "Synonyms": ["Luteinizing Hormone Releasing Hormone"]
+    },
+    {
+        "Abbreviation": "LUZHOR",
+        "Synonyms": ["Luteinizing Hormone", "Luteinising Hormone"]
+    },
+    {
+        "Abbreviation": "LYMPH",
+        "Synonyms": ["Lymphocyte Count", "Lymph Count", "Lymphocyte Number", "LY Count", "Lymph Cell Count"]
+    },
+    {
+        "Abbreviation": "LYMPHO%",
+        "Synonyms": ["Lymphocytes (%)", "Lymphocyte Percentage", "LY Percentage", "Lymph Cell Percentage"]
+    },
+    {
+        "Abbreviation": "LYSK",
+        "Synonyms": ["Lysine", "Lys", "Lysine Amino Acid", "L-lysine"]
+    },
+    {
+        "Abbreviation": "MURA",
+        "Synonyms": ["Lysozyme Muramidase", "Muramidase"]
+    },
+    {
+        "Abbreviation": "MIP1A",
+        "Synonyms": ["Macrophage Inflammatory Protein Alpha 1", "MIP-1a", "MIP1a"]
+    },
+    {
+        "Abbreviation": "MIP1B",
+        "Synonyms": ["Macrophage Inflammatory Protein Beta 1", "MIP-1b", "MIP1b"]
+    },
+    {
+        "Abbreviation": "MPLC",
+        "Synonyms": ["Macroprolactin"]
+    },
+    {
+        "Abbreviation": "Mg2+",
+        "Synonyms": ["Magnesium Ion"]
+    },
+    {
+        "Abbreviation": "Mn2+",
+        "Synonyms": ["Manganese Ion", "Serum Manganese"]
+    },
+    {
+        "Abbreviation": "MCH",
+        "Synonyms": ["Mean Corpuscular Hemoglobin"]
+    },
+    {
+        "Abbreviation": "MCHC",
+        "Synonyms": ["Mean Corpuscular Hemoglobin Concentration", "Hemoglobin Concentration"]
+    },
+    {
+        "Abbreviation": "MCV",
+        "Synonyms": ["Mean Corpuscular Volume", "Red Blood Cell Volume", "Erythrocyte Volume", "MCV Test", "MCV Measurement", "MCV Value"]
+    },
+    {
+        "Abbreviation": "MPV",
+        "Synonyms": ["Mean Platelet Volume", "Platelet Volume"]
+    },
+    {
+        "Abbreviation": "MELAT",
+        "Synonyms": ["Melatonin"]
+    },
+    {
+        "Abbreviation": "Hg2+",
+        "Synonyms": ["Mercury Ion", "Serum Mercury"]
+    },
+    {
+        "Abbreviation": "METHHGB",
+        "Synonyms": ["Methemoglobin"]
+    },
+    {
+        "Abbreviation": "METM",
+        "Synonyms": ["Methionine"]
+    },
+    {
+        "Abbreviation": "MONO",
+        "Synonyms": ["Monocyte Count", "Monocytes", "Total Monocytes", "Monocytes, total", "Monocyte Number", "MONO Count"]
+    },
+    {
+        "Abbreviation": "MONO%",
+        "Synonyms": ["Monocytes (%)", "Monocyte Percentage", "MONO Percentage"]
+    },
+    {
+        "Abbreviation": "MYOGLOB",
+        "Synonyms": ["Myoglobin"]
+    },
+    {
+        "Abbreviation": "NGF",
+        "Synonyms": ["Nerve Growth Factor", "NGF Protein"]
+    },
+    {
+        "Abbreviation": "NEUT",
+        "Synonyms": ["Neutrophil Count", "Neutrophils", "Total Neutrophils", "Neutrophils, total"]
+    },
+    {
+        "Abbreviation": "NEUTRO%",
+        "Synonyms": ["Neutrophils (%)", "Neutrophil Percentage", "NEUT Percentage"]
+    },
+    {
+        "Abbreviation": "NONHDL",
+        "Synonyms": ["Non-HDL Cholesterol", "Non-High-Density Lipoprotein Cholesterol", "Non-HDL-C"]
+    },
+    {
+        "Abbreviation": "NRBCs",
+        "Synonyms": ["Nucleated Red Blood Cells", "Nucleated RBCs", "NRBC"]
+    },
+    {
+        "Abbreviation": "OXYT",
+        "Synonyms": ["Oxytocin"]
+    },
+    {
+        "Abbreviation": "PCPP",
+        "Synonyms": ["Pancreatic Polypeptide"]
+    },
+    {
+        "Abbreviation": "PTH",
+        "Synonyms": ["Parathyroid Hormone"]
+    },
+    {
+        "Abbreviation": "pCO2",
+        "Synonyms": ["Partial Pressure of Carbon Dioxide", "Carbon Dioxide Pressure"]
+    },
+    {
+        "Abbreviation": "pO2",
+        "Synonyms": ["Partial Pressure of Oxygen"]
+    },
+    {
+        "Abbreviation": "PTPT",
+        "Synonyms": ["Partial Thromboplastin Time"]
+    },
+    {
+        "Abbreviation": "PH",
+        "Synonyms": ["pH Level"]
+    },
+    {
+        "Abbreviation": "PHEALA",
+        "Synonyms": ["Phenylalanine", "L-Phenylalanine", "Phe Amino Acid", "Phenylalanin"]
+    },
+    {
+        "Abbreviation": "PHETYR",
+        "Synonyms": ["Phenylalanine to Tyrosine Ratio", "Phe/Tyr Ratio"]
+    },
+    {
+        "Abbreviation": "P5+",
+        "Synonyms": ["Phosphorus"]
+    },
+    {
+        "Abbreviation": "PLAT",
+        "Synonyms": ["Platelet Count", "Thrombocyte Count", "Platelets", "PLT Count"]
+    },
+    {
+        "Abbreviation": "PDGF",
+        "Synonyms": ["Platelet Derived Growth Factor"]
+    },
+    {
+        "Abbreviation": "K+",
+        "Synonyms": ["Potassium", "Kalium", "K+ Ion", "Serum Potassium", "Blood Potassium"]
+    },
+    {
+        "Abbreviation": "PROGST",
+        "Synonyms": ["Progesterone"]
+    },
+    {
+        "Abbreviation": "PROLAC",
+        "Synonyms": ["Prolactin"]
+    },
+    {
+        "Abbreviation": "PSA",
+        "Synonyms": ["Prostate Specific Antigen", "Prostatic Specific Antigen", "PSA Protein", "Prostate-Specific Protein"]
+    },
+    {
+        "Abbreviation": "PTT",
+        "Synonyms": ["Prothrombin Time"]
+    },
+    {
+        "Abbreviation": "RBC",
+        "Synonyms": ["Red Blood Cell Count", "RCC", "Erythrocyte Count", "Red Cells", "Red Cell Number", "Erythrocytes", "RBCs", "total red blood cells", "total erythrocytes", "erythrocytes, total", "red blood cells, total"]
+    },
+    {
+        "Abbreviation": "RDW",
+        "Synonyms": ["Red Cell Distribution Width"]
+    },
+    {
+        "Abbreviation": "RENI",
+        "Synonyms": ["Renin", "serum renin"]
+    },
+    {
+        "Abbreviation": "RET-He",
+        "Synonyms": ["Reticulocyte Hemoglobin", "Retic-Hb", "RET-He Level"]
+    },
+    {
+        "Abbreviation": "RETI",
+        "Synonyms": ["Reticulocytes", "Retic", "Retic Count"]
+    },
+    {
+        "Abbreviation": "RR%",
+        "Synonyms": ["Reticulocytes (%)", "Retic Percentage"]
+    },
+    {
+        "Abbreviation": "SRNE",
+        "Synonyms": ["Serine", "Ser", "Amino Acid Serine", "L-Serine", "Serin"]
+    },
+    {
+        "Abbreviation": "Na+",
+        "Synonyms": ["Sodium", "Na+ Ion", "Sodium Level", "Na Level", "Serum Sodium"]
+    },
+    {
+        "Abbreviation": "SCCC",
+        "Synonyms": ["Succinate", "Succinic Acid"]
+    },
+    {
+        "Abbreviation": "TESTO",
+        "Synonyms": ["Testosterone", "Total Testosterone", "Testosterone, Total"]
+    },
+    {
+        "Abbreviation": "THRT",
+        "Synonyms": ["Thrombin Time"]
+    },
+    {
+        "Abbreviation": "THYGL",
+        "Synonyms": ["Thyroglobulin"]
+    },
+    {
+        "Abbreviation": "TSH",
+        "Synonyms": ["Thyroid Stimulating Hormone", "Thyroid Stimulating Hormone Level", "TSH Level"]
+    },
+    {
+        "Abbreviation": "TT4",
+        "Synonyms": ["Thyroxine", "T4", "Thyroxin", "T4 Level"]
+    },
+    {
+        "Abbreviation": "BILIT",
+        "Synonyms": ["Total Bilirubin", "Bilirubin Total", "Serum Bilirubin", "Bili. Total"]
+    },
+    {
+        "Abbreviation": "CHOL",
+        "Synonyms": ["Total Cholesterol", "Cholesterol Total", "Cholesterol"]
+    },
+    {
+        "Abbreviation": "MPSWB",
+        "Synonyms": ["Total Mucopolysaccharides", "Mucopolysaccharides Total"]
+    },
+    {
+        "Abbreviation": "PROT",
+        "Synonyms": ["Total Protein", "Serum Protein"]
+    },
+    {
+        "Abbreviation": "TFER",
+        "Synonyms": ["Transferrin", "TF", "Serotransferrin", "Total Transferrin"]
+    },
+    {
+        "Abbreviation": "TFESAT",
+        "Synonyms": ["Transferrin Saturation", "TSAT", "Transferrin Iron Saturation"]
+    },
+    {
+        "Abbreviation": "TRIGL",
+        "Synonyms": ["Triglycerides", "Triglyceride", "Serum Triglycerides"]
+    },
+    {
+        "Abbreviation": "TT3",
+        "Synonyms": ["Triiodothyronine", "T3"]
+    },
+    {
+        "Abbreviation": "TROPI",
+        "Synonyms": ["Troponin I", "cTnI", "Cardiac Troponin I"]
+    },
+    {
+        "Abbreviation": "TROPT",
+        "Synonyms": ["Troponin T", "Cardiac Troponin T", "cTnT"]
+    },
+    {
+        "Abbreviation": "URIC",
+        "Synonyms": ["Uric Acid", "UA", "Urate", "Uric Acid Level", "UA Level"]
+    },
+    {
+        "Abbreviation": "VALI",
+        "Synonyms": ["Valine", "Val", "Amino Acid Valine", "L-Valine", "Valin"]
+    },
+    {
+        "Abbreviation": "VLDLC",
+        "Synonyms": ["Very Low Density Lipoprotein Cholesterol", "VLDL Cholesterol", "VLDL-C", "VLDL"]
+    },
+    {
+        "Abbreviation": "vitA",
+        "Synonyms": ["Vitamin A", "Retinol"]
+    },
+    {
+        "Abbreviation": "vitB1",
+        "Synonyms": ["Vitamin B1", "Thiamine", "Thiamin", "Vitamin B1 Level", "Thiamine Level"]
+    },
+    {
+        "Abbreviation": "vitB12",
+        "Synonyms": ["Vitamin B12", "Cobalamin"]
+    },
+    {
+        "Abbreviation": "vitB2",
+        "Synonyms": ["Vitamin B2", "Riboflavin"]
+    },
+    {
+        "Abbreviation": "vitB3",
+        "Synonyms": ["Vitamin B3", "Niacin"]
+    },
+    {
+        "Abbreviation": "vitB5",
+        "Synonyms": ["Vitamin B5", "Pantothenic Acid"]
+    },
+    {
+        "Abbreviation": "vitB6",
+        "Synonyms": ["Vitamin B6", "Pyridoxine"]
+    },
+    {
+        "Abbreviation": "vitB9",
+        "Synonyms": ["Vitamin B9", "Folate", "Folic Acid"]
+    },
+    {
+        "Abbreviation": "vitC",
+        "Synonyms": ["Vitamin C", "Ascorbic Acid"]
+    },
+    {
+        "Abbreviation": "vitD",
+        "Synonyms": ["Vitamin D", "Calciferol"]
+    },
+    {
+        "Abbreviation": "vitE",
+        "Synonyms": ["Vitamin E", "Tocopherol"]
+    },
+    {
+        "Abbreviation": "vitK1",
+        "Synonyms": ["Vitamin K1", "Phylloquinone"]
+    },
+    {
+        "Abbreviation": "WBC",
+        "Synonyms": ["White Blood Cell Count", "Leukocyte Count", "WBC Count", "White Cell Count", "White Count", "Leukocytes total", "Total Leukocytes", "Total white blood cells", "WCC"]
+    },
+    {
+        "Abbreviation": "Zn2+",
+        "Synonyms": ["Zinc"]
+    },
+    {
+        "Abbreviation": "FGLUC",
+        "Synonyms": ["Fasting Glucose", "Fasting Blood Glucose"]
+    },
+    {
+        "Abbreviation": "ANTIDNA_AB_RIA",
+        "Synonyms": ["Anti-DNA Antibodies (Radioimmunoassay)", "Anti-DNA Abs (RIA)", "Anti-dsDNA Antibodies (RIA)"]
+    },
+    {
+        "Abbreviation": "ANA",
+        "Synonyms": ["Antinuclear Antibodies", "Antinuclear Antibody", "ANA Test", "ANA Screening", "Anti-Nuclear Antibodies"]
+    },
+    {
+        "Abbreviation": "ANCA_SCREEN",
+        "Synonyms": ["Antineutrophil Cytoplasmic Antibodies Screen", "ANCA Test", "ANCA Screening"]
+    },
+    {
+        "Abbreviation": "SS_A_60",
+        "Synonyms": ["SS-A 60", "SS-A 60 kDa", "Ro/SS-A", "Ro 60", "SSA-60", "Ro-60 Antibodies"]
+    },
+    {
+        "Abbreviation": "SS_B",
+        "Synonyms": ["SS-B", "SS-B Antibodies"]
+    },
+    {
+        "Abbreviation": "RO_52",
+        "Synonyms": ["Ro-52", "Ro-52 Antibodies", "Ro52 Antibodies"]
+    },
+    {
+        "Abbreviation": "SCL_70",
+        "Synonyms": ["Scl-70", "Scl-70 Antibodies"]
+    },
+    {
+        "Abbreviation": "JO_1",
+        "Synonyms": ["Jo-1", "Jo-1 Antibodies"]
+    },
+    {
+        "Abbreviation": "CENP_B",
+        "Synonyms": ["Cenp-B", "Cenp-B Antibodies"]
+    },
+    {
+        "Abbreviation": "SM_AB",
+        "Synonyms": ["Sm Antibodies", "Anti-Sm Antibodies"]
+    },
+    {
+        "Abbreviation": "RNP_AB",
+        "Synonyms": ["RNP Antibodies", "Anti-RNP Antibodies"]
+    },
+    {
+        "Abbreviation": "RIBO_P_AB",
+        "Synonyms": ["Ribosomal P Antibodies", "Ribosomal Protein P Antibodies", "Ribosome P Antibodies", "Ribosomal Phosphoprotein Antibodies"]
+    },
+    {
+        "Abbreviation": "CMV_IGG",
+        "Synonyms": ["Cytomegalovirus IgG", "CMV Immunoglobulin G"]
+    },
+    {
+        "Abbreviation": "CMV_IGM",
+        "Synonyms": ["Cytomegalovirus IgM", "CMV Immunoglobulin M", "CMV Antibodies IgM"]
+    },
+    {
+        "Abbreviation": "MUM_IGG",
+        "Synonyms": ["Mumps IgG", "Mumps Immunoglobulin G", "Mumps Antibodies IgG"]
+    },
+    {
+        "Abbreviation": "MEAS_IGG",
+        "Synonyms": ["Measles IgG", "Measles Immunoglobulin G", "Measles Antibodies IgG"]
+    },
+    {
+        "Abbreviation": "RHEUM_FAC",
+        "Synonyms": ["Rheumatoid Factor", "RF", "Rheumatoid Arthritis Factor", "RA Factor"]
+    },
+    {
+        "Abbreviation": "CCP_ABS",
+        "Synonyms": ["Cyclic Citrullinated Peptide Antibodies Absolute", "Anti-CCP Antibodies"]
+    },
+    {
+        "Abbreviation": "TOX_IGG",
+        "Synonyms": ["Toxoplasma IgG (CMIA)", "Toxoplasma gondii IgG", "Toxoplasmosis IgG"]
+    },
+    {
+        "Abbreviation": "TOX_IGM",
+        "Synonyms": ["Toxoplasma IgM (CMIA)", "Toxoplasma gondii IgM", "Toxoplasmosis IgM"]
+    },
+    {
+        "Abbreviation": "UREA",
+        "Synonyms": ["Urea", "Blood Urea", "Blood Urea Nitrogen", "BUN", "Blood Urea Level"]
+    },
+    {
+        "Abbreviation": "PO4",
+        "Synonyms": ["Phosphate"]
+    },
+    {
+        "Abbreviation": "A/G_RATIO",
+        "Synonyms": ["Albumin/Globulin Ratio", "A/G Ratio", "Albumin-to-Globulin Ratio", "Albumin-Globulin Ratio", "Serum A/G Ratio"]
+    },
+    {
+        "Abbreviation": "AMY",
+        "Synonyms": ["Amylase", "Serum Amylase"]
+    },
+    {
+        "Abbreviation": "PDW",
+        "Synonyms": ["Platelet Distribution Width"]
+    },
+    {
+        "Abbreviation": "TFT-R",
+        "Synonyms": [
+          "Thyroid Function Test - Reflex",
+          "Thyroid Function Test with Reflex",
+          "Reflex Thyroid Function Test",
+          "Thyroid Function Panel with Reflex",
+          "Thyroid Function Profile - Reflex",
+          "Thyroid Function Studies - Reflex",
+          "Reflex Thyroid Profile",
+          "Thyroid Function Testing - Reflex",
+          "Thyroid Function Screen with Reflex",
+          "Reflexive Thyroid Function Evaluation"
+        ]
+    },
+    {
+        "Abbreviation": "TFT",
+        "Synonyms": [
+          "Thyroid Function Test",
+          "Thyroid Function Panel",
+          "Thyroid Function Profile",
+          "Thyroid Function Studies",
+          "Thyroid Function Assay",
+          "Thyroid Hormone Evaluation",
+          "Thyroid Hormone Test",
+          "Thyroid Hormone Panel",
+          "Thyroid Hormone Profile",
+          "Thyroid Hormone Assay"
+        ]
+    },
+    {
+        "Abbreviation": "TPOAb",
+        "Synonyms": [
+            "Thyroid Peroxidase Antibodies",
+            "Anti-Thyroid Peroxidase Antibodies",
+            "Anti-TPO Antibodies",
+            "Thyroid Microsomal Antibodies",
+            "Anti-Microsomal Antibodies",
+            "TPO Autoantibodies",
+            "Anti-TPO Autoantibodies",
+            "Thyroid Peroxidase Autoantibodies",
+            "Thyroid Microsomal Autoantibodies",
+            "Anti-Thyroid Microsomal Autoantibodies",
+            "Anti-Thyroidal Peroxidase Abs"
+        ]
+    },
+    {
+        "Abbreviation": "TgAb",
+        "Synonyms": [
+            "Thyroglobulin Antibodies",
+            "Anti-Thyroglobulin Antibodies",
+            "Anti-Tg Antibodies",
+            "Thyroglobulin Autoantibodies",
+            "Anti-Thyroglobulin Autoantibodies",
+            "Tg Autoantibodies",
+            "Anti-Tg Autoantibodies",
+            "Tg Immunoassay",
+            "Thyroglobulin Immunoassay",
+            "Thyroglobulin Autoantibody Assay",
+            "Anti-Thyroglobulin Abs",
+            "Anti-Thyroglobulin"
+        ]
+    }
+]

@@ -1,0 +1,2135 @@
+{
+  "11DEOXY": {
+    "code": "11DEOXY",
+    "display": "11 deoxycortisol",
+    "units": [
+      "nmol/L"
+    ]
+  },
+  "17OHP": {
+    "code": "17OHP",
+    "display": "17 hydroxyprogesterone",
+    "units": [
+      "ng/dL",
+      "ug/dL"
+    ]
+  },
+  "ACACT": {
+    "code": "ACACT",
+    "display": "acetoacetate",
+    "units": [
+      "ug/mL",
+      "g/L"
+    ]
+  },
+  "ALT": {
+    "code": "ALT",
+    "display": "alanine transaminase",
+    "units": [
+      "mIU/mL",
+      "IU/L",
+      "U/L"
+    ]
+  },
+  "ALB": {
+    "code": "ALB",
+    "display": "albumin",
+    "units": [
+      "g/L",
+      "g/dL"
+    ]
+  },
+  "AL/GLO": {
+    "code": "AL/GLO",
+    "display": "albumin to globulin ratio",
+    "units": [
+      "nan"
+    ]
+  },
+  "ALD": {
+    "code": "ALD",
+    "display": "aldosterone",
+    "units": [
+      "ng/dL",
+      "ug/dL"
+    ]
+  },
+  "ALP": {
+    "code": "ALP",
+    "display": "alkaline phosphatase",
+    "units": [
+      "mIU/mL",
+      "IU/L",
+      "U/L"
+    ]
+  },
+  "AAT1": {
+    "code": "AAT1",
+    "display": "alpha 1 antichymotrypsin",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "AATD": {
+    "code": "AATD",
+    "display": "alpha 1 antitrypsin",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "AFP": {
+    "code": "AFP",
+    "display": "alpha 1 fetoprotein afp",
+    "units": [
+      "ng/mL",
+      "ng/L",
+      "ug/L"
+    ]
+  },
+  "A2MACR": {
+    "code": "A2MACR",
+    "display": "alpha 2 macroglobulin",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "AABA": {
+    "code": "AABA",
+    "display": "alpha aminobutyric acid",
+    "units": [
+      "umol/L"
+    ]
+  },
+  "HBDH": {
+    "code": "HBDH",
+    "display": "alpha hydroxybutyrate dehydrogenase",
+    "units": [
+      "mIU/mL",
+      "IU/L",
+      "U/L"
+    ]
+  },
+  "A1GLO": {
+    "code": "A1GLO",
+    "display": "alpha-1 globulin",
+    "units": [
+      "g/L",
+      "g/dL"
+    ]
+  },
+  "A2GLO": {
+    "code": "A2GLO",
+    "display": "alpha-2 globulin",
+    "units": [
+      "g/L",
+      "g/dL"
+    ]
+  },
+  "Al": {
+    "code": "Al",
+    "display": "aluminium",
+    "units": [
+      "ng/dL",
+      "ug/dL",
+      "ng/mL",
+      "ug/L"
+    ]
+  },
+  "NH3": {
+    "code": "NH3",
+    "display": "ammonia",
+    "units": [
+      "umol/L"
+    ]
+  },
+  "ANDRO": {
+    "code": "ANDRO",
+    "display": "androgen",
+    "units": [
+      "ng/dL",
+      "ug/dL"
+    ]
+  },
+  "ANSTED": {
+    "code": "ANSTED",
+    "display": "androstenedione",
+    "units": [
+      "ng/dL",
+      "ug/dL"
+    ]
+  },
+  "ACE": {
+    "code": "ACE",
+    "display": "angiotensin converting enzyme",
+    "units": [
+      "nmol/mL/min"
+    ]
+  },
+  "ANGAP": {
+    "code": "ANGAP",
+    "display": "anion gap",
+    "units": [
+      "mOsm/KgH2O",
+      "mmol/L",
+      "umol/L"
+    ]
+  },
+  "ADH": {
+    "code": "ADH",
+    "display": "antidiuretic hormone",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L"
+    ]
+  },
+  "ARG": {
+    "code": "ARG",
+    "display": "arginine",
+    "units": [
+      "umol/L"
+    ]
+  },
+  "As": {
+    "code": "As",
+    "display": "arsenic",
+    "units": [
+      "ng/dL",
+      "ug/dL"
+    ]
+  },
+  "AST": {
+    "code": "AST",
+    "display": "aspartate transaminase",
+    "units": [
+      "mIU/mL",
+      "IU/L",
+      "U/L"
+    ]
+  },
+  "BNP": {
+    "code": "BNP",
+    "display": "b type natriuretic peptide",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L"
+    ]
+  },
+  "BASO": {
+    "code": "BASO",
+    "display": "basophil count",
+    "units": [
+      "thousand/uL",
+      "K/uL",
+      "10*9/L",
+      "*10^9/L",
+      "micl/3*10",
+      "X10^9/L",
+      "x10^9/L",
+      "×10^9/L",
+      "x10E3/uL",
+      "Tsd./uL",
+      "tsd./uL",
+      "cells/uL",
+      "10^3/uL",
+      "10^9/L",
+      "*10^E/L",
+      "10*3/uL"
+    ]
+  },
+  "BASO%": {
+    "code": "BASO%",
+    "display": "basophils (%)",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "B2M": {
+    "code": "B2M",
+    "display": "beta 2 microglobulin",
+    "units": [
+      "mg/L",
+      "mg/dL"
+    ]
+  },
+  "BGLO": {
+    "code": "BGLO",
+    "display": "beta globulin",
+    "units": [
+      "g/L",
+      "g/dL"
+    ]
+  },
+  "BHYD": {
+    "code": "BHYD",
+    "display": "beta hydroxybutyrate",
+    "units": [
+      "mmol/L",
+      "umol/L"
+    ]
+  },
+  "HCO3": {
+    "code": "HCO3",
+    "display": "bicarbonate",
+    "units": [
+      "mEq/L",
+      "mmol/L"
+    ]
+  },
+  "BLT": {
+    "code": "BLT",
+    "display": "bleeding time",
+    "units": [
+      "sec",
+      "s"
+    ]
+  },
+  "FXIV": {
+    "code": "FXIV",
+    "display": "blood coagulation factor XIV",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "O2SAT": {
+    "code": "O2SAT",
+    "display": "blood oxygen saturation",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "BUN": {
+    "code": "BUN",
+    "display": "blood urea nitrogen",
+    "units": [
+      "mg/dL",
+      "mmol/L",
+      "umol/L"
+    ]
+  },
+  "Br-": {
+    "code": "Br-",
+    "display": "bromide",
+    "units": [
+      "mmol/L",
+      "umol/L"
+    ]
+  },
+  "CRP": {
+    "code": "CRP",
+    "display": "c-reactive protein",
+    "units": [
+      "mg/L",
+      "mg/dL"
+    ]
+  },
+  "Cd2+": {
+    "code": "Cd2+",
+    "display": "cadmium",
+    "units": [
+      "ng/mL",
+      "ng/L",
+      "ug/L"
+    ]
+  },
+  "CCTN": {
+    "code": "CCTN",
+    "display": "calcitonin",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L"
+    ]
+  },
+  "Ca2+": {
+    "code": "Ca2+",
+    "display": "calcium",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL",
+      "mmol/L"
+    ]
+  },
+  "CA125": {
+    "code": "CA125",
+    "display": "cancer antigen 125",
+    "units": [
+      "IU/mL"
+    ]
+  },
+  "CA2729": {
+    "code": "CA2729",
+    "display": "cancer antigen 27-29",
+    "units": [
+      "IU/mL"
+    ]
+  },
+  "CA199": {
+    "code": "CA199",
+    "display": "cancer antigen 19-9",
+    "units": [
+      "U/mL"
+    ]
+  },
+  "CA153": {
+    "code": "CA153",
+    "display": "cancer antigen 15-3",
+    "units": [
+      "U/mL"
+    ]
+  },
+  "CO2": {
+    "code": "CO2",
+    "display": "carbon dioxide",
+    "units": [
+      "mmol/L",
+      "umol/L"
+    ]
+  },
+  "HBCO": {
+    "code": "HBCO",
+    "display": "carboxyhemoglobin",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "CEA": {
+    "code": "CEA",
+    "display": "carcinoembryonic antigen",
+    "units": [
+      "ng/dL",
+      "ug/dL",
+      "ng/mL",
+      "ug/L"
+    ]
+  },
+  "CRPLN": {
+    "code": "CRPLN",
+    "display": "ceruloplasmin",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "Cl-": {
+    "code": "Cl-",
+    "display": "chloride",
+    "units": [
+      "meq/L",
+      "mmol/L",
+      "umol/L"
+    ]
+  },
+  "CHOL/HDL": {
+    "code": "CHOL/HDL",
+    "display": "cholesterol/HDL ratio",
+    "units": [
+      "nan",
+      "none"
+    ]
+  },
+  "CCK": {
+    "code": "CCK",
+    "display": "cholestocystokinin",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L"
+    ]
+  },
+  "CHLN": {
+    "code": "CHLN",
+    "display": "choline",
+    "units": [
+      "ug/mL",
+      "g/L"
+    ]
+  },
+  "CGA": {
+    "code": "CGA",
+    "display": "chromogranin a",
+    "units": [
+      "ng/L"
+    ]
+  },
+  "C1Q": {
+    "code": "C1Q",
+    "display": "complement component 1",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "C1EI": {
+    "code": "C1EI",
+    "display": "complement component 1 esterase inhibitor",
+    "units": [
+      "mg/mL"
+    ]
+  },
+  "C2": {
+    "code": "C2",
+    "display": "complement component 2",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "C3": {
+    "code": "C3",
+    "display": "complement component 3",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "C4": {
+    "code": "C4",
+    "display": "complement component 4",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "C5": {
+    "code": "C5",
+    "display": "complement component 5",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "C6": {
+    "code": "C6",
+    "display": "complement component 6",
+    "units": [
+      "IU/mL"
+    ]
+  },
+  "BILIC": {
+    "code": "BILIC",
+    "display": "conjugated bilirubin",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL",
+      "umol/L"
+    ]
+  },
+  "Cu2+": {
+    "code": "Cu2+",
+    "display": "copper",
+    "units": [
+      "ng/dL",
+      "ug/dL"
+    ]
+  },
+  "CORT": {
+    "code": "CORT",
+    "display": "cortisol",
+    "units": [
+      "ng/dL",
+      "ug/dL",
+      "nmol/L"
+    ]
+  },
+  "CREAN": {
+    "code": "CREAN",
+    "display": "creatine",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL",
+      "umol/L"
+    ]
+  },
+  "CK": {
+    "code": "CK",
+    "display": "creatine kinase",
+    "units": [
+      "mIU/mL",
+      "IU/L",
+      "U/L"
+    ]
+  },
+  "CKMB": {
+    "code": "CKMB",
+    "display": "creatine kinase-MB",
+    "units": [
+      "mIU/mL",
+      "IU/L",
+      "U/L"
+    ]
+  },
+  "CREA": {
+    "code": "CREA",
+    "display": "creatinine",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL",
+      "umol/L"
+    ]
+  },
+  "CGMP": {
+    "code": "CGMP",
+    "display": "cyclyic GMP",
+    "units": [
+      "pmol/mL"
+    ]
+  },
+  "CYS": {
+    "code": "CYS",
+    "display": "cysteine",
+    "units": [
+      "umol/L"
+    ]
+  },
+  "DHEA": {
+    "code": "DHEA",
+    "display": "dehydroepiandrosterone",
+    "units": [
+      "ng/dL",
+      "ug/dL"
+    ]
+  },
+  "DHEAS": {
+    "code": "DHEAS",
+    "display": "dehydroepiandrosterone sulfate",
+    "units": [
+      "umol/L"
+    ]
+  },
+  "DHTT": {
+    "code": "DHTT",
+    "display": "dihydrotestosterone",
+    "units": [
+      "ng/dL",
+      "ug/dL"
+    ]
+  },
+  "EGFR": {
+    "code": "EGFR",
+    "display": "eGFR",
+    "units": [
+      "mL/min/1.73qm",
+      "1.73/m2",
+      "mL/min/1.73m2",
+      "mL/min^1.73"
+    ]
+  },
+  "EOS": {
+    "code": "EOS",
+    "display": "eosinophil count",
+    "units": [
+      "thousand/uL",
+      "K/uL",
+      "10*9/L",
+      "*10^9/L",
+      "micl/3*10",
+      "X10^9/L",
+      "x10^9/L",
+      "×10^9/L",
+      "x10E3/uL",
+      "Tsd./uL",
+      "tsd./uL",
+      "cells/uL",
+      "10^3/uL",
+      "10^9/L",
+      "*10^E/L",
+      "10*3/uL"
+    ]
+  },
+  "EOSINO%": {
+    "code": "EOSINO%",
+    "display": "eosinophils (%)",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "ESR": {
+    "code": "ESR",
+    "display": "erythrocyte sedimentation rate",
+    "units": [
+      "mm/hr",
+      "mm/h"
+    ]
+  },
+  "EPOE": {
+    "code": "EPOE",
+    "display": "erythropoietin",
+    "units": [
+      "mIU/mL"
+    ]
+  },
+  "ESTR2": {
+    "code": "ESTR2",
+    "display": "estradiol",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L"
+    ]
+  },
+  "ESTR1": {
+    "code": "ESTR1",
+    "display": "estrone",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L"
+    ]
+  },
+  "F5": {
+    "code": "F5",
+    "display": "factor V",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "INSLN": {
+    "code": "INSLN",
+    "display": "fasting insulin",
+    "units": [
+      "pmol/L"
+    ]
+  },
+  "FERR": {
+    "code": "FERR",
+    "display": "ferritin",
+    "units": [
+      "ng/dL",
+      "ug/dL",
+      "ng/mL",
+      "ug/L"
+    ]
+  },
+  "FIBR": {
+    "code": "FIBR",
+    "display": "fibrinogen",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "FSH": {
+    "code": "FSH",
+    "display": "follicle stimulating hormone",
+    "units": [
+      "mIU/mL",
+      "IU/L",
+      "U/L"
+    ]
+  },
+  "FPSA": {
+    "code": "FPSA",
+    "display": "free psa",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "FT3": {
+    "code": "FT3",
+    "display": "free T3",
+    "units": [
+      "ng/dL",
+      "pmol/L"
+    ]
+  },
+  "FT4": {
+    "code": "FT4",
+    "display": "free T4",
+    "units": [
+      "pmol/L"
+    ]
+  },
+  "FRUCT": {
+    "code": "FRUCT",
+    "display": "fructosamine",
+    "units": [
+      "mmol/L",
+      "umol/L"
+    ]
+  },
+  "GALT": {
+    "code": "GALT",
+    "display": "galactose 1 phosphate uridyltransferase",
+    "units": [
+      "IU/gHb"
+    ]
+  },
+  "GGLO": {
+    "code": "GGLO",
+    "display": "gamma globulin",
+    "units": [
+      "g/L",
+      "g/dL"
+    ]
+  },
+  "GGT": {
+    "code": "GGT",
+    "display": "gamma-glutamyltransferase",
+    "units": [
+      "mIU/mL",
+      "IU/L",
+      "U/L"
+    ]
+  },
+  "GTRN": {
+    "code": "GTRN",
+    "display": "gastrin",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L"
+    ]
+  },
+  "GLOB": {
+    "code": "GLOB",
+    "display": "globulin total",
+    "units": [
+      "g/L",
+      "g/dL"
+    ]
+  },
+  "GLCGN": {
+    "code": "GLCGN",
+    "display": "glucagon",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L"
+    ]
+  },
+  "GLUC": {
+    "code": "GLUC",
+    "display": "glucose",
+    "units": [
+      "mg/dL",
+      "mmol/L",
+      "umol/L"
+    ]
+  },
+  "G6PD": {
+    "code": "G6PD",
+    "display": "glucose 6 phosphate dehydrogenase",
+    "units": [
+      "IU/g Hgb"
+    ]
+  },
+  "GLCRL": {
+    "code": "GLCRL",
+    "display": "glycerol",
+    "units": [
+      "mmol/L",
+      "umol/L"
+    ]
+  },
+  "GLYCC": {
+    "code": "GLYCC",
+    "display": "glycine",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "HPTGB": {
+    "code": "HPTGB",
+    "display": "haptoglobin",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "HBA1C": {
+    "code": "HBA1C",
+    "display": "HbA1c",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "HDLC": {
+    "code": "HDLC",
+    "display": "hdl cholesterol",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL",
+      "mmol/L"
+    ]
+  },
+  "HCT": {
+    "code": "HCT",
+    "display": "hematocrit",
+    "units": [
+      "%",
+      "ratio",
+      "L/L"
+    ]
+  },
+  "HGB": {
+    "code": "HGB",
+    "display": "hemoglobin",
+    "units": [
+      "g/L",
+      "g/dL"
+    ]
+  },
+  "hs-cTnI": {
+    "code": "hs-cTnI",
+    "display": "high sensitivity cardiac troponin I",
+    "units": [
+      "ng/L"
+    ]
+  },
+  "HIST": {
+    "code": "HIST",
+    "display": "histamine",
+    "units": [
+      "ng/mL",
+      "ng/L",
+      "ug/L"
+    ]
+  },
+  "HCYS": {
+    "code": "HCYS",
+    "display": "homocystein",
+    "units": [
+      "umol/L"
+    ]
+  },
+  "IGC": {
+    "code": "IGC",
+    "display": "immature granulocytes",
+    "units": [
+      "thousand/uL",
+      "K/uL",
+      "10*9/L",
+      "*10^9/L",
+      "micl/3*10",
+      "×10^9/L",
+      "x10E3/uL",
+      "Tsd./uL",
+      "tsd./uL",
+      "cells/uL",
+      "10^3/uL",
+      "10^9/L",
+      "*10^E/L",
+      "10*3/uL"
+    ]
+  },
+  "IGC%": {
+    "code": "IGC%",
+    "display": "immature granulocytes (%)",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "IPF": {
+    "code": "IPF",
+    "display": "immature platelet fraction",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "IRF": {
+    "code": "IRF",
+    "display": "immature reticulocyte fraction",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "igA": {
+    "code": "igA",
+    "display": "immunoglobulin a ",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "igD": {
+    "code": "igD",
+    "display": "immunoglobulin d",
+    "units": [
+      "mg/L",
+      "mg/dL"
+    ]
+  },
+  "igE": {
+    "code": "igE",
+    "display": "immunoglobulin e",
+    "units": [
+      "IU/mL"
+    ]
+  },
+  "igG": {
+    "code": "igG",
+    "display": "immunoglobulin g",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "igM": {
+    "code": "igM",
+    "display": "immunoglobulin m",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "BILIIN": {
+    "code": "BILIIN",
+    "display": "indirect bilirubin",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "IGF1": {
+    "code": "IGF1",
+    "display": "insulin like growth factor 1",
+    "units": [
+      "ng/mL",
+      "ng/L",
+      "ug/L"
+    ]
+  },
+  "I2": {
+    "code": "I2",
+    "display": "iodine",
+    "units": [
+      "ng/dL",
+      "ug/dL",
+      "ng/mL",
+      "ug/L"
+    ]
+  },
+  "Fe3+": {
+    "code": "Fe3+",
+    "display": "iron",
+    "units": [
+      "ug/dL",
+      "umol/L"
+    ]
+  },
+  "UIBC": {
+    "code": "UIBC",
+    "display": "iron binding capacity",
+    "units": [
+      "ng/dL",
+      "ug/dL"
+    ]
+  },
+  "ILEL": {
+    "code": "ILEL",
+    "display": "isoleucine",
+    "units": [
+      "umol/L"
+    ]
+  },
+  "LDH": {
+    "code": "LDH",
+    "display": "l-lactate dehydrogenase",
+    "units": [
+      "mIU/mL",
+      "IU/L",
+      "U/L"
+    ]
+  },
+  "LACTL": {
+    "code": "LACTL",
+    "display": "lactate",
+    "units": [
+      "mmol/L",
+      "umol/L"
+    ]
+  },
+  "LACPYR": {
+    "code": "LACPYR",
+    "display": "lactate to pyruvate ratio",
+    "units": [
+      "nan"
+    ]
+  },
+  "LDLC": {
+    "code": "LDLC",
+    "display": "ldl cholesterol",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL",
+      "mmol/L"
+    ]
+  },
+  "Pb2+": {
+    "code": "Pb2+",
+    "display": "lead",
+    "units": [
+      "ng/dL",
+      "ug/dL"
+    ]
+  },
+  "LEP": {
+    "code": "LEP",
+    "display": "leptin",
+    "units": [
+      "ng/mL",
+      "ng/L",
+      "ug/L"
+    ]
+  },
+  "LAP": {
+    "code": "LAP",
+    "display": "leucine aminopeptidase",
+    "units": [
+      "IU/mL"
+    ]
+  },
+  "LPSE": {
+    "code": "LPSE",
+    "display": "lipase",
+    "units": [
+      "U/L"
+    ]
+  },
+  "LPPA": {
+    "code": "LPPA",
+    "display": "lipoprotein a",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "Li+": {
+    "code": "Li+",
+    "display": "lithium",
+    "units": [
+      "mEq/L"
+    ]
+  },
+  "LZH": {
+    "code": "LZH",
+    "display": "luteinising hormone releasing hormone",
+    "units": [
+      "mIU/mL",
+      "IU/L",
+      "U/L"
+    ]
+  },
+  "LUZHOR": {
+    "code": "LUZHOR",
+    "display": "luteinizing hormone",
+    "units": [
+      "IU/mL"
+    ]
+  },
+  "LYMPH": {
+    "code": "LYMPH",
+    "display": "lymphocyte count",
+    "units": [
+      "thousand/uL",
+      "K/uL",
+      "10*9/L",
+      "*10^9/L",
+      "micl/3*10",
+      "X10^9/L",
+      "x10^9/L",
+      "×10^9/L",
+      "x10E3/uL",
+      "Tsd./uL",
+      "tsd./uL",
+      "cells/uL",
+      "10^3/uL",
+      "10^9/L",
+      "*10^E/L",
+      "10*3/uL"
+    ]
+  },
+  "LYMPHO%": {
+    "code": "LYMPHO%",
+    "display": "lymphocytes (%)",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "LYSK": {
+    "code": "LYSK",
+    "display": "lysine",
+    "units": [
+      "umol/L"
+    ]
+  },
+  "MURA": {
+    "code": "MURA",
+    "display": "lysozyme muramidase",
+    "units": [
+      "ug/mL",
+      "g/L"
+    ]
+  },
+  "MIP1A": {
+    "code": "MIP1A",
+    "display": "macrophage inflammatory protein alpha 1",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L"
+    ]
+  },
+  "MIP1B": {
+    "code": "MIP1B",
+    "display": "macrophage inflammatory protein beta 1",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L"
+    ]
+  },
+  "MPLC": {
+    "code": "MPLC",
+    "display": "macroprolactin",
+    "units": [
+      "ng/L"
+    ]
+  },
+  "Mg2+": {
+    "code": "Mg2+",
+    "display": "magnesium",
+    "units": [
+      "mg/dL",
+      "mmol/L",
+      "umol/L"
+    ]
+  },
+  "Mn2+": {
+    "code": "Mn2+",
+    "display": "manganese",
+    "units": [
+      "ng/dL",
+      "ug/dL",
+      "ng/mL",
+      "ug/L"
+    ]
+  },
+  "MCH": {
+    "code": "MCH",
+    "display": "mean corpuscular hemoglobin",
+    "units": [
+      "pg/cell",
+      "pg/Ery",
+      "pg"
+    ]
+  },
+  "MCHC": {
+    "code": "MCHC",
+    "display": "mean corpuscular hemoglobin concentration",
+    "units": [
+      "gm/dL",
+      "g/L",
+      "g/dL"
+    ]
+  },
+  "MCV": {
+    "code": "MCV",
+    "display": "mean corpuscular volume",
+    "units": [
+      "fL",
+      "fl"
+    ]
+  },
+  "MPV": {
+    "code": "MPV",
+    "display": "mean platelet volume",
+    "units": [
+      "fL",
+      "fl"
+    ]
+  },
+  "MELAT": {
+    "code": "MELAT",
+    "display": "melatonin",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L"
+    ]
+  },
+  "Hg2+": {
+    "code": "Hg2+",
+    "display": "mercury",
+    "units": [
+      "ng/mL",
+      "ng/L",
+      "ug/L"
+    ]
+  },
+  "METHHGB": {
+    "code": "METHHGB",
+    "display": "methemoglobin",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "METM": {
+    "code": "METM",
+    "display": "methionine",
+    "units": [
+      "umol/L"
+    ]
+  },
+  "MONO": {
+    "code": "MONO",
+    "display": "monocyte count",
+    "units": [
+      "thousand/uL",
+      "K/uL",
+      "10*9/L",
+      "*10^9/L",
+      "micl/3*10",
+      "×10^9/L",
+      "x10E3/uL",
+      "Tsd./uL",
+      "tsd./uL",
+      "cells/uL",
+      "10^3/uL",
+      "10^9/L",
+      "*10^E/L",
+      "10*3/uL"
+    ]
+  },
+  "MONO%": {
+    "code": "MONO%",
+    "display": "monocytes (%)",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "MYOGLOB": {
+    "code": "MYOGLOB",
+    "display": "myoglobin",
+    "units": [
+      "ng/mL",
+      "ng/L",
+      "ug/L"
+    ]
+  },
+  "NGF": {
+    "code": "NGF",
+    "display": "nerve growth factor",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L"
+    ]
+  },
+  "NEUT": {
+    "code": "NEUT",
+    "display": "neutrophil count",
+    "units": [
+      "thousand/uL",
+      "K/uL",
+      "10*9/L",
+      "*10^9/L",
+      "micl/3*10",
+      "X10^9/L",
+      "x10^9/L",
+      "×10^9/L",
+      "x10E3/uL",
+      "Tsd./uL",
+      "tsd./uL",
+      "cells/uL",
+      "10^3/uL",
+      "10^9/L",
+      "*10^E/L",
+      "10*3/uL"
+    ]
+  },
+  "NEUTRO%": {
+    "code": "NEUTRO%",
+    "display": "neutrophils (%)",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "NONHDL": {
+    "code": "NONHDL",
+    "display": "non-hdl cholesterol",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL",
+      "mmol/L"
+    ]
+  },
+  "NRBCs": {
+    "code": "NRBCs",
+    "display": "nucleated red blood cells",
+    "units": [
+      "/100 WBC"
+    ]
+  },
+  "OXYT": {
+    "code": "OXYT",
+    "display": "oxytocin",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L"
+    ]
+  },
+  "PCPP": {
+    "code": "PCPP",
+    "display": "pancreatic polypeptide",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L"
+    ]
+  },
+  "PTH": {
+    "code": "PTH",
+    "display": "parathyroid hormone",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L"
+    ]
+  },
+  "pCO2": {
+    "code": "pCO2",
+    "display": "partial pressure of carbon dioxide",
+    "units": [
+      "mmHg"
+    ]
+  },
+  "pO2": {
+    "code": "pO2",
+    "display": "partial pressure of oxygen",
+    "units": [
+      "mmHg"
+    ]
+  },
+  "PTPT": {
+    "code": "PTPT",
+    "display": "partial thromboplastin time",
+    "units": [
+      "sec",
+      "s"
+    ]
+  },
+  "PH": {
+    "code": "PH",
+    "display": "pH level",
+    "units": [
+      "nan"
+    ]
+  },
+  "PHEALA": {
+    "code": "PHEALA",
+    "display": "phenylalanine",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "PHETYR": {
+    "code": "PHETYR",
+    "display": "phenylalanine to tyrosine ratio",
+    "units": [
+      "nan"
+    ]
+  },
+  "P5+": {
+    "code": "P5+",
+    "display": "phosphorus",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL",
+      "mmol/L"
+    ]
+  },
+  "PLAT": {
+    "code": "PLAT",
+    "display": "platelet count",
+    "units": [
+      "thousand/uL",
+      "K/uL",
+      "10*9/L",
+      "*10^9/L",
+      "micl/3*10",
+      "×10^9/L",
+      "x10E3/uL",
+      "Tsd./uL",
+      "tsd./uL",
+      "cells/uL",
+      "10^3/uL",
+      "10^9/L",
+      "*10^E/L",
+      "10*3/uL"
+    ]
+  },
+  "PDGF": {
+    "code": "PDGF",
+    "display": "platelet derived growth factor",
+    "units": [
+      "ng/mL",
+      "ng/L",
+      "ug/L"
+    ]
+  },
+  "K+": {
+    "code": "K+",
+    "display": "potassium",
+    "units": [
+      "meq/L",
+      "mmol/L",
+      "umol/L"
+    ]
+  },
+  "PROGST": {
+    "code": "PROGST",
+    "display": "progesterone",
+    "units": [
+      "ng/mL",
+      "ng/L",
+      "ug/L"
+    ]
+  },
+  "PROLAC": {
+    "code": "PROLAC",
+    "display": "prolactin",
+    "units": [
+      "mIU/L",
+      "ng/mL",
+      "mU/L"
+    ]
+  },
+  "PSA": {
+    "code": "PSA",
+    "display": "prostate specific antigen",
+    "units": [
+      "ng/mL",
+      "ng/L",
+      "ug/L"
+    ]
+  },
+  "PTT": {
+    "code": "PTT",
+    "display": "prothrombine time",
+    "units": [
+      "sec",
+      "s"
+    ]
+  },
+  "RBC": {
+    "code": "RBC",
+    "display": "red blood cell count",
+    "units": [
+      "M/uL",
+      "*10^12/L",
+      "K/uL",
+      "10^12/L",
+      "10*12/L",
+      "Mio./uL",
+      "×10^12/L",
+      "*10^E2/L",
+      "micl/6*10",
+      "10^6/uL",
+      "million/uL",
+      "x10^12/L",
+      "10*6/uL",
+      "x10E6/uL"
+    ]
+  },
+  "RDW": {
+    "code": "RDW",
+    "display": "red cell distribution width",
+    "units": [
+      "%",
+      "none",
+      "fL",
+      "L/L"
+    ]
+  },
+  "RENI": {
+    "code": "RENI",
+    "display": "renin",
+    "units": [
+      "ng/mL/hr"
+    ]
+  },
+  "RET-He": {
+    "code": "RET-He",
+    "display": "reticulocyte hemoglobin",
+    "units": [
+      "pg/Cell"
+    ]
+  },
+  "RETI": {
+    "code": "RETI",
+    "display": "reticulocytes",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "RR%": {
+    "code": "RR%",
+    "display": "reticulocytes (%)",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "SRNE": {
+    "code": "SRNE",
+    "display": "serine",
+    "units": [
+      "umol/L"
+    ]
+  },
+  "Na+": {
+    "code": "Na+",
+    "display": "sodium",
+    "units": [
+      "meq/L",
+      "mmol/L",
+      "umol/L"
+    ]
+  },
+  "SCCC": {
+    "code": "SCCC",
+    "display": "succinate",
+    "units": [
+      "umol/L"
+    ]
+  },
+  "TESTO": {
+    "code": "TESTO",
+    "display": "testosterone",
+    "units": [
+      "ng/dL",
+      "ug/dL"
+    ]
+  },
+  "THRT": {
+    "code": "THRT",
+    "display": "thrombin time",
+    "units": [
+      "sec",
+      "s"
+    ]
+  },
+  "THYGL": {
+    "code": "THYGL",
+    "display": "thyroglobulin",
+    "units": [
+      "ng/mL",
+      "ng/L",
+      "ug/L"
+    ]
+  },
+  "TSH": {
+    "code": "TSH",
+    "display": "thyroid stimulating hormone",
+    "units": [
+      "mIU/L",
+      "uIU/mL",
+      "mU/L"
+    ]
+  },
+  "TT4": {
+    "code": "TT4",
+    "display": "thyroxine",
+    "units": [
+      "ng/dL",
+      "ug/dL"
+    ]
+  },
+  "BILIT": {
+    "code": "BILIT",
+    "display": "total bilirubin",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL",
+      "umol/L"
+    ]
+  },
+  "CHOL": {
+    "code": "CHOL",
+    "display": "total cholesterol",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL",
+      "mmol/L"
+    ]
+  },
+  "MPSWB": {
+    "code": "MPSWB",
+    "display": "total mucopolysaccharides",
+    "units": [
+      "mg/mmol creatinine"
+    ]
+  },
+  "PROT": {
+    "code": "PROT",
+    "display": "total protein",
+    "units": [
+      "g/L",
+      "g/dL"
+    ]
+  },
+  "TFER": {
+    "code": "TFER",
+    "display": "transferrin",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "TFESAT": {
+    "code": "TFESAT",
+    "display": "transferrin saturation",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "TRIGL": {
+    "code": "TRIGL",
+    "display": "triglycerides",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL",
+      "mmol/L"
+    ]
+  },
+  "TT3": {
+    "code": "TT3",
+    "display": "triiodothyronine",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L"
+    ]
+  },
+  "TROPI": {
+    "code": "TROPI",
+    "display": "troponin I",
+    "units": [
+      "ng/mL",
+      "ng/L",
+      "ug/L"
+    ]
+  },
+  "TROPT": {
+    "code": "TROPT",
+    "display": "troponin T",
+    "units": [
+      "ng/mL",
+      "ng/L",
+      "ug/L"
+    ]
+  },
+  "URIC": {
+    "code": "URIC",
+    "display": "uric acid",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL",
+      "mmol/L"
+    ]
+  },
+  "VALI": {
+    "code": "VALI",
+    "display": "valine",
+    "units": [
+      "umol/L"
+    ]
+  },
+  "VLDLC": {
+    "code": "VLDLC",
+    "display": "very low density lipoprotein cholesterol",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL"
+    ]
+  },
+  "vitA": {
+    "code": "vitA",
+    "display": "vitamin a",
+    "units": [
+      "ng/dL",
+      "ug/dL"
+    ]
+  },
+  "vitB1": {
+    "code": "vitB1",
+    "display": "vitamin b1",
+    "units": [
+      "ng/dL",
+      "ug/dL"
+    ]
+  },
+  "vitB12": {
+    "code": "vitB12",
+    "display": "vitamin b12",
+    "units": [
+      "pg/mL",
+      "pg/dL",
+      "ng/L",
+      "pmol/L"
+    ]
+  },
+  "vitB2": {
+    "code": "vitB2",
+    "display": "vitamin b2",
+    "units": [
+      "nmol/L"
+    ]
+  },
+  "vitB3": {
+    "code": "vitB3",
+    "display": "vitamin b3",
+    "units": [
+      "ug/mL",
+      "g/L"
+    ]
+  },
+  "vitB5": {
+    "code": "vitB5",
+    "display": "vitamin b5",
+    "units": [
+      "umol/L"
+    ]
+  },
+  "vitB6": {
+    "code": "vitB6",
+    "display": "vitamin b6",
+    "units": [
+      "ng/dL",
+      "ug/dL",
+      "ng/mL",
+      "ug/L"
+    ]
+  },
+  "vitB9": {
+    "code": "vitB9",
+    "display": "vitamin b9",
+    "units": [
+      "ng/mL",
+      "ng/L",
+      "ug/L"
+    ]
+  },
+  "vitC": {
+    "code": "vitC",
+    "display": "vitamin c",
+    "units": [
+      "g/L",
+      "umol/l",
+      "mg/dL",
+      "mg/L",
+      "umol/L"
+    ]
+  },
+  "vitD": {
+    "code": "vitD",
+    "display": "vitamin d",
+    "units": [
+      "nmol/L",
+      "ng/mL",
+      "ng/L",
+      "ug/L"
+    ]
+  },
+  "vitE": {
+    "code": "vitE",
+    "display": "vitamin e",
+    "units": [
+      "ug/mL",
+      "g/L"
+    ]
+  },
+  "vitK1": {
+    "code": "vitK1",
+    "display": "vitamin k1",
+    "units": [
+      "ng/mL",
+      "ng/L",
+      "ug/L"
+    ]
+  },
+  "WBC": {
+    "code": "WBC",
+    "display": "white blood cell count",
+    "units": [
+      "thousand/uL",
+      "K/uL",
+      "10*9/L",
+      "*10^9/L",
+      "micl/3*10",
+      "X10^9/L",
+      "x10^9/L",
+      "×10^9/L",
+      "x10E3/uL",
+      "Tsd./uL",
+      "tsd./uL",
+      "cells/uL",
+      "10^3/uL",
+      "10^9/L",
+      "*10^E/L",
+      "10*3/uL"
+    ]
+  },
+  "Zn2+": {
+    "code": "Zn2+",
+    "display": "zinc",
+    "units": [
+      "ug/mL",
+      "g/L"
+    ]
+  },
+  "FGLUC": {
+    "code": "FGLUC",
+    "display": "fasting glucose",
+    "units": [
+      "mg/L",
+      "g/L",
+      "mg/dL",
+      "mmol/L"
+    ]
+  },
+  "ANTIDNA_AB_RIA": {
+    "code": "ANTIDNA_AB_RIA",
+    "display": "anti-dna antibodies (radioimmunoassay)",
+    "units": [
+      "IU/mL"
+    ]
+  },
+  "ANA": {
+    "code": "ANA",
+    "display": "antinuclear antibodies",
+    "units": [
+      "nan"
+    ]
+  },
+  "ANCA_SCREEN": {
+    "code": "ANCA_SCREEN",
+    "display": "antineutrophil cytoplasmic antibodies screen",
+    "units": [
+      "nan"
+    ]
+  },
+  "SS_A_60": {
+    "code": "SS_A_60",
+    "display": "SS-A 60",
+    "units": [
+      "nan"
+    ]
+  },
+  "SS_B": {
+    "code": "SS_B",
+    "display": "SS-B",
+    "units": [
+      "nan"
+    ]
+  },
+  "RO_52": {
+    "code": "RO_52",
+    "display": "Ro-52",
+    "units": [
+      "nan"
+    ]
+  },
+  "SCL_70": {
+    "code": "SCL_70",
+    "display": "Scl-70",
+    "units": [
+      "nan"
+    ]
+  },
+  "JO_1": {
+    "code": "JO_1",
+    "display": "Jo-1",
+    "units": [
+      "nan"
+    ]
+  },
+  "CENP_B": {
+    "code": "CENP_B",
+    "display": "Cenp-B",
+    "units": [
+      "nan"
+    ]
+  },
+  "SM_AB": {
+    "code": "SM_AB",
+    "display": "Sm antibodies",
+    "units": [
+      "nan"
+    ]
+  },
+  "RNP_AB": {
+    "code": "RNP_AB",
+    "display": "RNP antibodies",
+    "units": [
+      "nan"
+    ]
+  },
+  "RIBO_P_AB": {
+    "code": "RIBO_P_AB",
+    "display": "ribosomal p antibodies",
+    "units": [
+      "nan"
+    ]
+  },
+  "CMV_IGG": {
+    "code": "CMV_IGG",
+    "display": "cytomegalo virus IgG",
+    "units": [
+      "nan"
+    ]
+  },
+  "CMV_IGM": {
+    "code": "CMV_IGM",
+    "display": "cytomegalo virus IgM",
+    "units": [
+      "nan"
+    ]
+  },
+  "MUM_IGG": {
+    "code": "MUM_IGG",
+    "display": "mumps IgG",
+    "units": [
+      "nan"
+    ]
+  },
+  "MEAS_IGG": {
+    "code": "MEAS_IGG",
+    "display": "measles IgG",
+    "units": [
+      "nan"
+    ]
+  },
+  "RHEUM_FAC": {
+    "code": "RHEUM_FAC",
+    "display": "rheumatoid factor",
+    "units": [
+      "IU/mL"
+    ]
+  },
+  "CCP_ABS": {
+    "code": "CCP_ABS",
+    "display": "cyclic citrullinated peptide antibodies absolute",
+    "units": [
+      "U/mL"
+    ]
+  },
+  "TOX_IGG": {
+    "code": "TOX_IGG",
+    "display": "toxoplasma IgG (CMIA)",
+    "units": [
+      "nan"
+    ]
+  },
+  "TOX_IGM": {
+    "code": "TOX_IGM",
+    "display": "toxoplasma IgM (CMIA)",
+    "units": [
+      "nan"
+    ]
+  },
+  "UREA": {
+    "code": "UREA",
+    "display": "urea",
+    "units": [
+      "mmol/L",
+      "umol/L"
+    ]
+  },
+  "PO4": {
+    "code": "PO4",
+    "display": "phosphate",
+    "units": [
+      "mmol/L",
+      "umol/L"
+    ]
+  },
+  "PCV": {
+    "code": "PCV",
+    "display": "packed cell volume",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  },
+  "A/G_RATIO": {
+    "code": "A/G_RATIO",
+    "display": "albumin/globulin ratio",
+    "units": [
+      "nan"
+    ]
+  },
+  "AMY": {
+    "code": "AMY",
+    "display": "amylase",
+    "units": [
+      "U/L"
+    ]
+  },
+  "PDW": {
+    "code": "PDW",
+    "display": "platelet distribution width",
+    "units": [
+      "%",
+      "L/L"
+    ]
+  }
+}
