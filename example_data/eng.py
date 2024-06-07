@@ -125,7 +125,7 @@ def eng_word_data_multi_transform():
         corpus=WordCorpus(
             WordCorpusCfg(
                 separator=" ",
-                text_paths=[TEXT_DIR / "eng_text.txt"],
+                text_paths=[TEXT_DIR / "medical_corpus.txt"],
                 filter_by_chars=True,
                 chars_file=CHAR_DIR / "eng.txt",
                 **font_cfg
