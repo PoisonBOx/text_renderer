@@ -132,7 +132,7 @@ def eng_word_data_multi_transform():
             ),
         ),
         corpus_effects=Effects([Line(0.1, thickness=(1, 3)),
-                                Emboss(0.1),
+                                Emboss(0.05),
                                 Padding(0.4),
                                 # DropoutHorizontal(0.1, num_line=1)
                                 ])
