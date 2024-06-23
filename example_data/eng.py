@@ -21,6 +21,7 @@ CURRENT_DIR = Path(os.path.abspath(os.path.dirname(__file__)))
 OUT_DIR = CURRENT_DIR / "output"
 DATA_DIR = CURRENT_DIR
 BG_DIR = DATA_DIR / "bg"
+BG_EASY_DIR = DATA_DIR / "bg_easy"
 CHAR_DIR = DATA_DIR / "char"
 FONT_DIR = DATA_DIR / "font"
 FONT_LIST_DIR = DATA_DIR / "font_list"
@@ -56,6 +57,26 @@ def base_cfg(
         save_dir=OUT_DIR / name,
         render_cfg=RenderCfg(
             bg_dir=BG_DIR,
+            perspective_transform=perspective_transform,
+            gray=False,
+            # text_color_cfg=SimpleTextColorCfg(),
+            # text_color_cfg=FixedTextColorCfg(),
+            layout_effects=layout_effects,
+            layout=layout,
+            corpus=corpus,
+            corpus_effects=corpus_effects,
+        ),
+    )
+
+
+def base_easy_cfg(
+    name: str, corpus, corpus_effects=None, layout_effects=None, layout=None, gray=True
+):
+    return GeneratorCfg(
+        num_image=502000,
+        save_dir=OUT_DIR / name,
+        render_cfg=RenderCfg(
+            bg_dir=BG_EASY_DIR,
             perspective_transform=perspective_transform,
             gray=False,
             # text_color_cfg=SimpleTextColorCfg(),
@@ -104,13 +125,13 @@ def rand_data():
     )
 
 
-def eng_word_data():
-    return base_cfg(
+def eng_word_easy_data():
+    return base_easy_cfg(
         inspect.currentframe().f_code.co_name,
         corpus=WordCorpus(
             WordCorpusCfg(
                 separator=" ",
-                text_paths=[TEXT_DIR / "eng_text.txt"],
+                text_paths=[TEXT_DIR / "medical_corpus.txt"],
                 filter_by_chars=True,
                 chars_file=CHAR_DIR / "eng.txt",
                 **font_cfg
@@ -137,6 +158,45 @@ def eng_word_data_multi_transform():
                                 # DropoutHorizontal(0.1, num_line=1)
                                 ])
     )
+
+def eng_word_easy_data():
+    return base_easy_cfg(
+        inspect.currentframe().f_code.co_name,
+        corpus=WordCorpus(
+            WordCorpusCfg(
+                separator=" ",
+                text_paths=[TEXT_DIR / "medical_corpus.txt"],
+                filter_by_chars=True,
+                chars_file=CHAR_DIR / "eng.txt",
+                **font_cfg
+            ),
+        ),
+        corpus_effects=Effects([Padding(0.4),
+                                # DropoutHorizontal(0.1, num_line=1)
+                                ])
+    )
+
+
+def eng_word_data_v2():
+    return base_easy_cfg(
+        inspect.currentframe().f_code.co_name,
+        corpus=WordCorpus(
+            WordCorpusCfg(
+                separator=" ",
+                text_paths=[TEXT_DIR / "medical_corpus.txt"],
+                filter_by_chars=True,
+                chars_file=CHAR_DIR / "eng.txt",
+                **font_cfg
+            ),
+        ),
+        corpus_effects=Effects([Padding(0.01)])
+        # corpus_effects=Effects([# Line(0.1, thickness=(1, 2)),
+        #                         # Emboss(0.05),
+        #                         Padding(0.3),
+        #                         # DropoutHorizontal(0.1, num_line=1)
+        #                         ])
+    )
+
 
 def same_line_data():
     return base_cfg(
@@ -227,11 +287,8 @@ def imgaug_emboss_example():
 # fmt: off
 # The configuration file must have a configs variable
 configs = [
-    # chn_data(),
-    # enum_data(),
-    eng_word_data_multi_transform()
-    # same_line_data(),
-    # extra_text_line_data(),
-    # imgaug_emboss_example()
+    # eng_word_easy_data()
+    eng_word_data_v2()
+    # eng_word_data_multi_transform()
 ]
 # fmt: on
